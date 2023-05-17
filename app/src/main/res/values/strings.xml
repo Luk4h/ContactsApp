@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="create_description">Criar novo contato</string>
+    <string name="save">Salvar contato</string>
+    <string name="delete">Deletar contato</string>
+    <string name="add_phone_description">Adicionar número de telefone</string>
+    <string name="add_phone_number">Adicionar mais um número de telefone</string>
+    <string name="contact_name">Nome do contato</string>
+    <string name="phone_number">Número de telefone</string>
+
+    <string-array name="phone_types">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+    </string-array>
+</resources>
